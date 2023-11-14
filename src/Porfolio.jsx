@@ -13,7 +13,6 @@ const Porfolio = () => {
          <a href="https://crud-api-rho.vercel.app/" target="_blank" ><h2><ion-icon name="server-outline"></ion-icon>crud</h2></a> 
          </div>
          <div className="boxporfolio">
-         
          <a href="https://clima-smoky-gamma.vercel.app/" target="_blank" ><h2><ion-icon name="sunny-outline"></ion-icon>clima</h2></a>
          </div>
     </div>

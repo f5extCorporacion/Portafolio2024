@@ -12,13 +12,14 @@ import Modal from './Modal';
 
 const Carga = () => {
     const [modal , setModal] = useState(false)
+
     /* PRIMERA FORMA DE EXPORTAR VALORES */
   /*const Result= CounterStore( (state) => state.count)*/
    /*Forma rapida de ejecutar  funciones de un objeto para ejecutarlas */
    const { increment , decrementar } = CounterStore();
   
-    /** The acciones son los eventos ejemplo Comprar, eliminar etc */
   
+
     return (
       <div className='Global'>
         <div className="responsive">

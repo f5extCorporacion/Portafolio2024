@@ -3,13 +3,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-/*
-card de nosotros
-https://www.youtube.com/watch?v=SkNfKXkqSS0
 
-porfolio melita
-https://andresmelita.com/
-*/
 #root {
   /*max-width: 1280px;*/
   margin: 0 auto;
@@ -365,7 +359,7 @@ display:flex;
 justify-content: center;
 padding: 0;
 align-items: center;
-background: url('https://cadenaser.com/resizer/av8uSQm4LrD27LxLZ3kFIsrIP60=/1200x537/filters:quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/prisaradio/2BXBIY6XXNNJDMIDYTKUN47QZA.gif');
+background: url('./assets//fxac.gif');
 background-repeat: none;
 background-position: center center;
 background-size: cover;
